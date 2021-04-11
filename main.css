@@ -25,16 +25,37 @@ nav > span {
   margin: 1rem;
 }
 
-#signature1 {
-  stroke-dasharray: 313;
-  stroke-dashoffset: 313;
+#sign1 {
+  stroke-dasharray: 168;
+  stroke-dashoffset: 168;
   animation: sign 4s ease;
   animation-fill-mode: forwards;
 }
 
-#signature2 {
-  stroke-dasharray: 932;
-  stroke-dashoffset: 932;
+#sign2 {
+  stroke-dasharray: 131;
+  stroke-dashoffset: 131;
+  animation: sign 4s ease;
+  animation-fill-mode: forwards;
+}
+
+#sign3 {
+  stroke-dasharray: 29;
+  stroke-dashoffset: 29;
+  animation: sign 4s ease;
+  animation-fill-mode: forwards;
+}
+
+#sign4 {
+  stroke-dasharray: 252;
+  stroke-dashoffset: 252;
+  animation: sign 4s ease;
+  animation-fill-mode: forwards;
+}
+
+#sign5 {
+  stroke-dasharray: 1099;
+  stroke-dashoffset: 1099;
   animation: sign 4s ease;
   animation-fill-mode: forwards;
 }
